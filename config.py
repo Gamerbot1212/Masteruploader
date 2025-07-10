@@ -1,6 +1,6 @@
 import os
 
-class Config(object):
+class config(object):
     BOT_TOKEN = os.environ.get("7818844996:AAFEy9ihAxPVKDTHanYvRb-gXEiOfUYxsCw")
     API_ID = int(os.environ.get(20831039))
     API_HASH = os.environ.get("ea20b722f7af827db12fb85f4d55238c")
