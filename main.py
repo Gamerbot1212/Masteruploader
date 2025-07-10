@@ -1,4 +1,4 @@
-from config import Config
+from config import config
 from pyrogram import Client as bot, idle
 import asyncio
 import logging
